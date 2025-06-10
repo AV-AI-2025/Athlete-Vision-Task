@@ -1,9 +1,12 @@
 # Athlete Vision Take-Home Task
 
+## Overview
+This repository provides a template for the **Athlete Vision** take-home tasks for the Lead AI Developer, NLP/ML Developer, and Backend Developer roles. Fork this repo, complete your assigned task in the appropriate directory, and submit via GitHub. The task should take 4–6 hours and use free tools (e.g., Python, Google Colab, Heroku free tier).
+
 ## Instructions
 1. Fork this repo and clone to your machine.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Download sample data from the provided Google Drive link.
+3. Download sample data from the provided Google Drive link (shared after NDA).
 4. Complete your task in the appropriate directory (`lead_ai/`, `nlp_ml/`, or `backend/`).
 5. Save outputs in the `output/` subdirectory.
 6. Write a 1-page PDF explanation (500 words max) and save in `output/`.

@@ -6,3 +6,21 @@ torch==1.11.0
 pandas==1.4.3
 flask==2.1.2
 gunicorn==20.1.0
+
+Lead AI Developer:
+
+Process a baseball video to extract 2–3 motion metrics (e.g., arm angle).
+Output: JSON with metrics, annotated video in lead_ai/output/.
+Tools: Python, MediaPipe, OpenCV, Google Colab.
+
+NLP/ML Developer:
+
+Extract 5 sport-specific terms from coach phrases, reweight based on feedback.
+Output: JSON with terms/weights in nlp_ml/output/.
+Tools: Python, Hugging Face Transformers, Google Colab.
+
+Backend Developer:
+
+Build a Flask API with POST /upload and GET /metrics endpoints.
+Output: SQLite DB, API docs in backend/output/, Heroku link.
+Tools: Python, Flask, SQLite, Heroku.
